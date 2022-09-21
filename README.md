@@ -1,19 +1,35 @@
 # rsschool-cv
-##Yuliya Osipava
 
-[Frontend, Python](https://pages.github.com/).
+## Yuliya Osipava
+
+[Junior Frontend/Python](https://pages.github.com/).
 
 
-**Контакты для связи**
+## Contacts
 
-Телефон: +38 068 4489766
-Электронная почта: ankavoloshina@gmail.com
-Telegram: @hannavoloshyna
-LinkedIn
-Behance
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои задачи стороны, расскажите о своем опыте работы, если опыта работы нет, расскажите о своем стремлении учиться и исследовать новое)
+**Phone:** +375 297983704 4489766
+**E-mail:** vasjapupkin@gmail.com
+**Telegram:** @yuliys
+
+[LinkedIn](https://pages.github.com/).
+
+**About me:**
+
+ваша цель и приоритеты, подчеркните свои задачи стороны, расскажите о своем опыте работы, если опыта работы нет, расскажите о своем стремлении учиться и исследовать новое)
 Навыки (языки программирования, фреймворки, методологии, системы контроля версий и инструментов разработки, должны вы владеете)
-Примеры кода
-Опыт работы. Junior Dev может перечислить учебные проекты с использованием используемых навыков и ссылками на исходный код.
-Образование (включая пройденные курсы и тренинги)
-Английский язык (уровень английского языка, если была языковая практика, расскажите о ней)
+code:
+
+**Experience**
+
+Junior Dev может перечислить учебные проекты с использованием используемых навыков и ссылками на исходный код.
+
+**Skills:**
+- Python
+- Machine Learning
+- HTML/CSS
+
+**Languages:**
+- English (Diferent courses for IT -specialists, Courses with Native Speaker, Fellowship at EU)
+- Russian
+- BElarussian
+- Polish
