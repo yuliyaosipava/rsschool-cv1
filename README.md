@@ -9,9 +9,11 @@
 
 **Phone:** +375 17 361-79-04
 
-**E-mail:** julikasper@gmail.com
+**E-mail:** julikasper7@gmail.com
 
 **Telegram:** @yuliys
+
+**Discord nick (@ rs-school server):** Yuliya(@uto4ka101) 
 
 [LinkedIn](https://pages.github.com/).
 
