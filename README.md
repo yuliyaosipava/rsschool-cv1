@@ -17,7 +17,9 @@
 
 **About myself:**
 
+
 **My goals and priorities:**
+
 I like ML, Python and start to learn JS.
 Know Econometircs modeling. Solve classification, prediction (regression) tasks/
 Have experience on publicationons:dynamics system (systems of differential equations), economy (regional). About 35 publication on belarussian scientific magazins.
@@ -39,7 +41,7 @@ On maternity leave studying Python)
 - ML(RNN, LSTM etc/)
 
 **Languages:**
-- English (Diferent courses for IT -specialists, Courses with Native Speaker, Fellowship at EU)
+- English (Diferent courses for IT -specialists, Courses with Native Speaker, Fellowship at EU). Intermediate/Upper-intermediate.
 - Russian
 - Belarussian
 - Polish
