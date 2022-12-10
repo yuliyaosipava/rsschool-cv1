@@ -1,3 +1,3 @@
 # rsschool-cv
 JS
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://uto4ka101.github.io/rsschool-cv/cv
