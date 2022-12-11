@@ -59,7 +59,7 @@ On maternity leave studying Python)
 - ML(RNN, LSTM etc/)
 
 **Languages:**
-- English (Diferent courses for IT -specialists, Courses with Native Speaker, Fellowship at EU). Intermediate/Upper-intermediate.
+- English (Different courses for IT-specialists, Courses with Native Speaker, Fellowship at EU). Intermediate/Upper-intermediate.
 - Russian
 - Belarussian
 - Polish
