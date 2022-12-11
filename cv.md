@@ -27,7 +27,7 @@ Know Econometircs modeling. Solve classification, prediction (regression) tasks/
 Have experience on publicationons:dynamics system (systems of differential equations), economy (regional). About 35 publication on belarussian scientific magazins.
 
 **Code example on Python:**
-
+'''
 #n = int(input('введите количество строк n:  '))
 #m = int(input('введите количество столбцов m:  '))
 #тесты ,чтобы не париться с вводом массивов
@@ -45,6 +45,7 @@ for i in range(length):
 print(result_matrix, end=' ')
 print()
 
+'''
 **Experience:**
 
 Master of Physical and Mathematical Sciences, completed her postgraduate studies at the Faculty of Economics of the Belarusian State University.
