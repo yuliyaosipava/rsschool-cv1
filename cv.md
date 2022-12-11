@@ -26,8 +26,24 @@ I like ML, Python and start to learn JS.
 Know Econometircs modeling. Solve classification, prediction (regression) tasks/
 Have experience on publicationons:dynamics system (systems of differential equations), economy (regional). About 35 publication on belarussian scientific magazins.
 
-**Code example:**
+**Code example on Python:**
 
+#n = int(input('введите количество строк n:  '))
+#m = int(input('введите количество столбцов m:  '))
+#тесты ,чтобы не париться с вводом массивов
+first_matrix = [[-12, 11, -13, -5],[4, 5, -7, -3],[6, -7, 5, -3, -6]]
+second_matrix  = [[-12, 11, -13, -5],[4, 5, -7, -3],[6, -7, 5, -3, -6]]
+#тест №2 попроще
+first_matrix = [[-1, 1],[4, 5]]
+second_matrix  = [[-1, 1],[4, 5]]
+length = len(first_matrix)
+result_matrix = [[0 for i in range(length)] for i in range(length)]
+for i in range(length):
+  for j in range(length):
+    for k in range(length):
+       result_matrix[i][j] += first_matrix[i][k] * second_matrix[k][j]
+print(result_matrix, end=' ')
+print()
 
 **Experience:**
 
