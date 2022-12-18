@@ -1,0 +1,154 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>cv</title>
+  <link rel="icon" href="./assets/favicon.ico">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <header class="header">
+    <div class="container header-container">
+      <nav class="nav">        
+          <a href="#contacts" class="nav-link">Contacts</a></li>
+          <a href="#summary" class="nav-link">Summary</a></li>
+          <a href="#skills" class="nav-link">Skills</a></li>          
+          <a href="#code" class="nav-link">Code</a></li>
+          <a href="#courses" class="nav-link">Courses</a></li>
+          <a href="#courses" class="nav-link">Experience</a></li>
+          <a href="#education" class="nav-link">Education</a></li>
+          <a href="#english" class="nav-link">English</a></li>
+      </nav>
+      <div class="toggle">
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="line3"></div>
+      </div>
+    </div>
+  </header>
+  <main class="main">
+    <div class="container main-container">
+      <section class="section section-profile" id="profile">
+        <img src="duck.jpg" alt="" height="400" class="section-profile-logo">
+        <div class="section-profile-title">
+          <h1 class="section-title main-title">Yuliya Osipava</h1>
+          <h3 class="section-subtitle">Junior Front-End Developer</h3>
+        </div>        
+      </section>
+      <section class="section" id="contacts">
+        <h2 class="section-title">Contacts</h2>
+        <ul class="section-list">
+          <li class="section-item contacts-item">
+            Minsk, Belarus
+          </li>
+          <li class="section-item contacts-item">
+            Email: <a href="mailto:julikasper7@gmail.com" title="email">julikasper7@gmail.com</a>
+          </li>
+          <li class="section-item contacts-item">
+            Github: <a href="https://github.com/uto4ka101" title="github">yuliyaosipava</a>
+          </li>
+          <li class="section-item contacts-item">
+            Telegram: <a href="https://t.me/irinainina" title="github">@Pupkin</a>
+          </li>
+          <li class="section-item contacts-item">
+            Discord: <a href="https://discord.gg/zUr7wWYPXE" title="github">Yuliya#1155</a>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="summary">
+        <h2 class="section-title">Summary</h2>
+        <p>
+            I like ML, Python and start to learn JS.
+            Know Econometircs modeling. Solve classification, prediction (regression) tasks/
+            Have experience on publicationons:dynamics system (systems of differential equations), economy (regional). About 35 publication on belarussian scientific magazins.
+        </p>
+      </section>
+      <section class="section" id="skills">
+        <h2 class="section-title">Skills</h2>
+        <ul class="section-list">
+          <li class="section-item">
+            Web-development:<span> HTML5, CSS3, JavaScript</span>
+          </li>
+          <li class="section-item">
+            Frameworks and libraries:<span> ML(RNN, LSTM etc/)</span>
+          <li class="section-item">
+            Langueges:<span> Python</span> 
+          <li class="section-item">
+           <span> Econometircs model</span>
+          </li>
+          <li class="section-item">
+            Version control:<span> GIT, Github</span>
+          </li>
+          <li class="section-item">
+            Graphics:<span> Figma</span>
+          </li>
+        </ul>
+      </section>
+      <section class="section" id="code">
+        <h2 class="section-title">Code on Python</h2>
+<pre class="pre"><code>
+    #n = int(input('введите количество строк n:  '))
+    #m = int(input('введите количество столбцов m:  '))
+    #тесты ,чтобы не париться с вводом массивов
+    first_matrix = [[-12, 11, -13, -5],[4, 5, -7, -3],[6, -7, 5, -3, -6]]
+    second_matrix  = [[-12, 11, -13, -5],[4, 5, -7, -3],[6, -7, 5, -3, -6]]
+    #тест №2 попроще
+    first_matrix = [[-1, 1],[4, 5]]
+    second_matrix  = [[-1, 1],[4, 5]]
+    length = len(first_matrix)
+    result_matrix = [[0 for i in range(length)] for i in range(length)]
+    for i in range(length):
+      for j in range(length):
+        for k in range(length):
+           result_matrix[i][j] += first_matrix[i][k] * second_matrix[k][j]
+    print(result_matrix, end=' ')
+    print()</code></pre>
+      </section>
+      <section class="section" id="courses">
+        <h2 class="section-title">Courses</h2>
+        <ul class="section-list">
+            <li class="section-item">
+                English<span> for IT-specialists</span>
+              </li>
+              <li class="section-item">
+                BEROC<span> Econometrics courses</span>
+              </li>
+              <li class="section-item">
+                Python<span> self studies / CSS</span>
+              </li>
+        </ul>
+      </section>
+      <section class="section" id="Experience">
+        <h2 class="section-title">Experience</h2>
+        <ul class="section-list">
+          <li class="section-item">
+            <span> Master of Physical and Mathematical Sciences, completed her postgraduate studies at the Faculty of Economics of the Belarusian State University.
+                Worked as a software engineer at Brest University and as a webmaster.</span>
+          </li>          
+      </section></a>
+      <section class="section section-education" id="education">
+        <h2 class="section-title">Education</h2>
+        <p>Brest State University named A.S.Pushkin, master of mathematical and physical Sciences</p>
+        <p>Belarussian State University, phd study</p>
+      </section>
+      <section class="section section-english" id="english">
+        <h2 class="section-title">English</h2>
+        <p>B1/B2 - Intermediate</p>
+      </section>
+    </div>
+  </main>
+  <footer class="footer">
+    <div class="container footer-container">
+      <div>© 2022 <a href="https://github.com/uto4ka101" class="github nav-link">yuliyaosipava</a></div>
+      <a href="https://rs.school/js/" class="rss"></a>
+    </div>
+  </footer>
+  <script src="./index.js"></script>
+</body>
+
+</html>
